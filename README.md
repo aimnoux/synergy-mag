@@ -46,5 +46,6 @@
 
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/matematicheskoe-modelirovanie/lectures)
     - [Классическая модель парной линейной регрессии](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/01-parnaya-linejnaya-regressiya.md) — 2026-09-01
+    - [Метод наименьших квадратов и теорема Гаусса—Маркова](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/02-mnk-teorema-gaussa-markova.md) — 2026-09-01
 
 <!-- INDEX:END -->
