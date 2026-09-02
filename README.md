@@ -42,6 +42,9 @@
 
 ### [Семестр 1](https://github.com/aimnoux/synergy-mag/tree/main/semester-1) (текущий)
 
-_Пусто._
+**[Математическое моделирование](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/matematicheskoe-modelirovanie)**
+
+- [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/matematicheskoe-modelirovanie/lectures)
+    - [Классическая модель парной линейной регрессии](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/01-parnaya-linejnaya-regressiya.md) — 2026-09-01
 
 <!-- INDEX:END -->
