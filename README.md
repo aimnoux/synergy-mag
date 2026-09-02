@@ -13,15 +13,17 @@
 ├── scripts/build_index.py     ← пересборка оглавления
 ├── _inbox/                    ← сюда кладём сырые транскрипты и презентации (не коммитятся)
 └── semester-1/
-    └── <предмет>/
-        ├── lectures/
-        ├── seminars/
-        └── labs/
+    ├── <предмет>/
+    │   ├── lectures/
+    │   ├── seminars/
+    │   └── labs/
+    └── other/                 ← всё вне сетки дисциплин, файлы лежат плоско
 ```
 
 - Один конспект — один `.md`-файл с YAML-фронтматтером (`title`, `subject`, `type`, `date`).
 - Имена папок и файлов — латиница, kebab-case. Русские названия живут во фронтматтере.
 - Файлы занятий именуются `NN-slug.md` (`01`, `02`, …) — по порядку прохождения курса.
+- Внеучебные материалы (установочные встречи, инструктажи) складываются в `semester-N/other/` без подпапки типа; `subject` и `type` у них — `other`.
 - Текущий семестр задаётся маркером `<!-- CURRENT-SEMESTER: N -->` выше. Меняем его вручную в начале нового семестра.
 
 ## Рабочий процесс
@@ -50,7 +52,6 @@
 
 **[other](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/other)**
 
-- [other](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/other/other)
-    - [Технология обучения в Университете Синергия](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/other/other/01-tehnologiya-obucheniya-sinergiya.md) — 2026-09-02
+- [Технология обучения в Университете Синергия](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/other/01-tehnologiya-obucheniya-sinergiya.md) — 2026-09-02
 
 <!-- INDEX:END -->
