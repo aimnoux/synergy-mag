@@ -192,7 +192,11 @@ def collect(root: Path, link: Linker, current: int | None = None) -> list[str]:
 
 
 def check_naming(root: Path) -> list[str]:
-    """Ищет проблемы, которые ломают сортировку: дубли номеров и имена без префикса."""
+    """Проверяет нумерацию внутри группы «семестр / предмет / тип».
+
+    Нумерация в каждой такой папке своя: начинается с 01, идёт двузначно,
+    плотно и без дублей. Всё остальное ломает сортировку или порядок чтения.
+    """
     warnings: list[str] = []
     for folder in sorted(p for p in root.rglob("*") if p.is_dir()):
         if any(part in SKIP_DIRS for part in folder.parts) or not folder.name:
@@ -200,20 +204,28 @@ def check_naming(root: Path) -> list[str]:
         notes = [n for n in folder.glob("*.md") if n.name != "README.md"]
         if not notes:
             continue
+        where = folder.relative_to(root).as_posix()
         seen: dict[str, str] = {}
         for note in sorted(notes):
             match = re.match(r"^(\d{2,})-", note.name)
             if not match:
-                warnings.append(f"без номера в имени: {note.relative_to(root).as_posix()}")
+                warnings.append(f"без двузначного номера в имени: {note.relative_to(root).as_posix()}")
                 continue
             number = match.group(1)
             if number in seen:
                 warnings.append(
-                    f"номер {number} занят дважды в {folder.relative_to(root).as_posix()}: "
-                    f"{seen[number]} и {note.name}"
+                    f"номер {number} занят дважды в {where}: {seen[number]} и {note.name}"
                 )
             else:
                 seen[number] = note.name
+        numbers = sorted(int(n) for n in seen)
+        if numbers and numbers != list(range(1, len(numbers) + 1)):
+            expected = ", ".join(f"{i:02d}" for i in range(1, len(numbers) + 1))
+            actual = ", ".join(f"{i:02d}" for i in numbers)
+            warnings.append(
+                f"нумерация в {where} не сплошная: {actual} вместо {expected} "
+                f"(счётчик внутри семестра/предмета/типа начинается с 01 и идёт без пропусков)"
+            )
     return warnings
 
 
