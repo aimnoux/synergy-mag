@@ -54,4 +54,9 @@
 
 - [Технология обучения в Университете Синергия](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/other/01-tehnologiya-obucheniya-sinergiya.md) — 2026-09-02
 
+**[Проектная деятельность](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost)**
+
+- [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/lectures)
+    - [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
+
 <!-- INDEX:END -->
