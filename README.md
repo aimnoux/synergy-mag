@@ -58,5 +58,6 @@
 
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/lectures)
     - [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
+    - [Проектный офис на ступенях зрелости I–III](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/02-proektnyj-ofis-stupeni-zrelosti-1-3.md) — 2026-09-07
 
 <!-- INDEX:END -->
