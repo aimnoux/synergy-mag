@@ -185,7 +185,13 @@ def collect(root: Path, link: Linker, current: int | None = None) -> list[str]:
                     title = meta.get("title") or humanize(note.stem)
                     date = meta.get("date", "")
                     date_suffix = f" — {date}" if date else ""
-                    lines.append(f"{indent}- [{title}]({link.file(note, root)}){date_suffix}")
+                    # Номер конспекта в оглавлении — тот же, что в имени файла.
+                    number = re.match(r"^(\d{2,})-", note.name)
+                    # Жирным, иначе GitHub примет "- 01." за вложенный нумерованный список.
+                    number_prefix = f"**{number.group(1)}.** " if number else ""
+                    lines.append(
+                        f"{indent}- {number_prefix}[{title}]({link.file(note, root)}){date_suffix}"
+                    )
             lines.append("")
 
     return lines
