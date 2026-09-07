@@ -60,5 +60,6 @@
     - **01.** [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
     - **02.** [Проектный офис на ступенях зрелости I–III](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/02-proektnyj-ofis-stupeni-zrelosti-1-3.md) — 2026-09-07
     - **03.** [Ступень IV — стратегическое управление портфелем проектов](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/03-strategicheskoe-upravlenie-portfelem-proektov.md) — 2026-09-07
+    - **04.** [ITSM, ITIL 4 и основы управления ИТ-проектами](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/04-itsm-itil-osnovy-upravleniya-it-proektami.md) — 2026-09-07
 
 <!-- INDEX:END -->
