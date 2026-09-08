@@ -50,6 +50,7 @@
     - **01.** [Классическая модель парной линейной регрессии](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/01-parnaya-linejnaya-regressiya.md) — 2026-09-01
     - **02.** [Метод наименьших квадратов и теорема Гаусса—Маркова](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/02-mnk-teorema-gaussa-markova.md) — 2026-09-01
     - **03.** [Мультиколлинеарность: природа, признаки и диагностика](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/03-multikollinearnost-diagnostika.md) — 2026-09-08
+    - **04.** [Фиктивные переменные и отбор регрессоров](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/04-fiktivnye-peremennye-i-otbor-regressorov.md) — 2026-09-08
 
 **[other](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/other)**
 
