@@ -59,6 +59,7 @@
 **[Проектная деятельность](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost)**
 
 - [Лабораторные](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/labs)
+    - **01.** [Лабораторный практикум 1: организация работы и теоретическая часть](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/01-organizaciya-raboty-i-teoreticheskaya-chast.md) — 2026-09-10
     - **02.** [Критерии успеха проекта и магический треугольник](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/02-kriterii-uspeha-i-magicheskij-treugolnik.md) — 2026-09-10
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/lectures)
     - **01.** [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
