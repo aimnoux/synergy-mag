@@ -58,6 +58,8 @@
 
 **[Проектная деятельность](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost)**
 
+- [Лабораторные](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/labs)
+    - **01.** [Лабораторный практикум 1: основы и методология управления ИТ-проектами](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/01-osnovy-i-metodologiya-upravleniya-it-proektami.md) — 2026-09-10
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/lectures)
     - **01.** [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
     - **02.** [Проектный офис на ступенях зрелости I–III](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/02-proektnyj-ofis-stupeni-zrelosti-1-3.md) — 2026-09-07
