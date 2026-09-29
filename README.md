@@ -44,6 +44,12 @@
 
 ### [Семестр 1](https://github.com/aimnoux/synergy-mag/tree/main/semester-1) (текущий)
 
+**[Информационный менеджмент](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/informacionnyj-menedzhment)**
+
+- [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/informacionnyj-menedzhment/lectures)
+    - **01.** [Менеджмент бизнес-информации](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/01-menedzhment-biznes-informacii.md) — 2026-09-30
+    - **02.** [Стратегическое целевое управление ИТ и структура ИТ-стратегии](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/02-strategicheskoe-celevoe-upravlenie-it.md) — 2026-09-30
+
 **[Математическое моделирование](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/matematicheskoe-modelirovanie)**
 
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/matematicheskoe-modelirovanie/lectures)
