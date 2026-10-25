@@ -73,6 +73,8 @@
     - **02.** [Критерии успеха проекта и магический треугольник](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/02-kriterii-uspeha-i-magicheskij-treugolnik.md) — 2026-09-10
     - **03.** [Кейс «ТехноПрогресс»: цель ИТ-стратегии и категории мероприятий](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/03-kejs-tehnoprogress-it-strategiya.md) — 2026-09-17
     - **04.** [Кейс «ТехноПрогресс»: проектирование проектного офиса](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/04-proektirovanie-proektnogo-ofisa-tehnoprogress.md) — 2026-09-17
+    - **05.** [Кейс «ТехноПрогресс»: балансировка портфеля и сдача ЛП1](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/05-kejs-tehnoprogress-balansirovka-portfelya.md) — 2026-09-24
+    - **06.** [Кейс «ТехноПрогресс»: управление проектом внедрения ERP](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/06-kejs-tehnoprogress-upravlenie-proektom-erp.md) — 2026-09-24
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/lectures)
     - **01.** [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
     - **02.** [Проектный офис на ступенях зрелости I–III](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/02-proektnyj-ofis-stupeni-zrelosti-1-3.md) — 2026-09-07
