@@ -47,8 +47,10 @@
 **[Информационный менеджмент](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/informacionnyj-menedzhment)**
 
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/informacionnyj-menedzhment/lectures)
-    - **01.** [Менеджмент бизнес-информации](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/01-menedzhment-biznes-informacii.md) — 2026-09-30
-    - **02.** [Стратегическое целевое управление ИТ и структура ИТ-стратегии](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/02-strategicheskoe-celevoe-upravlenie-it.md) — 2026-09-30
+    - **01.** [Менеджмент бизнес-информации](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/01-menedzhment-biznes-informacii.md) — 2026-09-12
+    - **02.** [Стратегическое целевое управление ИТ и структура ИТ-стратегии](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/02-strategicheskoe-celevoe-upravlenie-it.md) — 2026-09-12
+    - **03.** [Способы приобретения и факторы качества ИС](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/03-sposoby-priobreteniya-kachestvo-is.md) — 2026-09-26
+    - **04.** [Эксплуатация ИС: ITIL, SLA, риски и ИТ-аудит](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/informacionnyj-menedzhment/lectures/04-ekspluataciya-is-sla-riski-it-audit.md) — 2026-09-26
 
 **[Математическое моделирование](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/matematicheskoe-modelirovanie)**
 
