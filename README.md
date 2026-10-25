@@ -78,10 +78,10 @@
     - **05.** [Кейс «ТехноПрогресс»: балансировка портфеля и сдача ЛП1](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/05-kejs-tehnoprogress-balansirovka-portfelya.md) — 2026-09-24
     - **06.** [Кейс «ТехноПрогресс»: управление проектом внедрения ERP](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/06-kejs-tehnoprogress-upravlenie-proektom-erp.md) — 2026-09-24
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/lectures)
-    - **01.** [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
-    - **02.** [Проектный офис на ступенях зрелости I–III](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/02-proektnyj-ofis-stupeni-zrelosti-1-3.md) — 2026-09-07
-    - **03.** [Ступень IV — стратегическое управление портфелем проектов](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/03-strategicheskoe-upravlenie-portfelem-proektov.md) — 2026-09-07
-    - **04.** [ITSM, ITIL 4 и основы управления ИТ-проектами](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/04-itsm-itil-osnovy-upravleniya-it-proektami.md) — 2026-09-07
+    - **01.** [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-03
+    - **02.** [Проектный офис на ступенях зрелости I–III](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/02-proektnyj-ofis-stupeni-zrelosti-1-3.md) — 2026-09-03
+    - **03.** [Ступень IV — стратегическое управление портфелем проектов](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/03-strategicheskoe-upravlenie-portfelem-proektov.md) — 2026-09-04
+    - **04.** [ITSM, ITIL 4 и основы управления ИТ-проектами](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/04-itsm-itil-osnovy-upravleniya-it-proektami.md) — 2026-09-04
     - **05.** [ИТ-проекты: этапы, стейкхолдеры, команда и коммуникации](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/05-it-proekty-stejkholdery-komanda-kommunikacii.md) — 2026-09-11
     - **06.** [Базовый план проекта и управление рисками](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/06-bazovyj-plan-upravlenie-riskami.md) — 2026-09-11
 
