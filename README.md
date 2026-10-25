@@ -57,6 +57,10 @@
     - **02.** [Метод наименьших квадратов и теорема Гаусса—Маркова](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/02-mnk-teorema-gaussa-markova.md) — 2026-09-01
     - **03.** [Мультиколлинеарность: природа, признаки и диагностика](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/03-multikollinearnost-diagnostika.md) — 2026-09-08
     - **04.** [Фиктивные переменные и отбор регрессоров](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/04-fiktivnye-peremennye-i-otbor-regressorov.md) — 2026-09-08
+    - **05.** [Цепи Маркова с дискретным временем](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/05-cepi-markova-diskretnoe-vremya.md) — 2026-09-15
+    - **06.** [Эргодичность, PageRank и уравнения Колмогорова](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/06-ergodichnost-pagerank-uravneniya-kolmogorova.md) — 2026-09-15
+    - **07.** [Практикум 1. Регрессия цены квартиры на площадь — задание](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/07-praktikum-1-regressiya-ceny-kvartiry-zadanie.md) — 2026-09-22
+    - **08.** [Практикум 1. Вопросы по заданию и сдаче](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/matematicheskoe-modelirovanie/lectures/08-praktikum-1-voprosy-po-zadaniyu-i-sdache.md) — 2026-09-22
 
 **[other](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/other)**
 
@@ -67,10 +71,14 @@
 - [Лабораторные](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/labs)
     - **01.** [Лабораторный практикум 1: организация работы и теоретическая часть](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/01-organizaciya-raboty-i-teoreticheskaya-chast.md) — 2026-09-10
     - **02.** [Критерии успеха проекта и магический треугольник](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/02-kriterii-uspeha-i-magicheskij-treugolnik.md) — 2026-09-10
+    - **03.** [Кейс «ТехноПрогресс»: цель ИТ-стратегии и категории мероприятий](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/03-kejs-tehnoprogress-it-strategiya.md) — 2026-09-17
+    - **04.** [Кейс «ТехноПрогресс»: проектирование проектного офиса](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/labs/04-proektirovanie-proektnogo-ofisa-tehnoprogress.md) — 2026-09-17
 - [Лекции](https://github.com/aimnoux/synergy-mag/tree/main/semester-1/proektnaya-deyatelnost/lectures)
     - **01.** [Информатизация бизнеса и проектный офис](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/01-informatizaciya-biznesa-proektnyj-ofis.md) — 2026-09-07
     - **02.** [Проектный офис на ступенях зрелости I–III](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/02-proektnyj-ofis-stupeni-zrelosti-1-3.md) — 2026-09-07
     - **03.** [Ступень IV — стратегическое управление портфелем проектов](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/03-strategicheskoe-upravlenie-portfelem-proektov.md) — 2026-09-07
     - **04.** [ITSM, ITIL 4 и основы управления ИТ-проектами](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/04-itsm-itil-osnovy-upravleniya-it-proektami.md) — 2026-09-07
+    - **05.** [ИТ-проекты: этапы, стейкхолдеры, команда и коммуникации](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/05-it-proekty-stejkholdery-komanda-kommunikacii.md) — 2026-09-11
+    - **06.** [Базовый план проекта и управление рисками](https://github.com/aimnoux/synergy-mag/blob/main/semester-1/proektnaya-deyatelnost/lectures/06-bazovyj-plan-upravlenie-riskami.md) — 2026-09-11
 
 <!-- INDEX:END -->
